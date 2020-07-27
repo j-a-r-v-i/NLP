@@ -38,7 +38,11 @@ For positive sentiments we collected Twitter data from Kaggle.
 * Chatbot
 
 # Challenges we ran into:-
-Most challenging part was to extract data .For Twitter API we have certain limitations based on number of tweets we can extract in a day.Second issue was to get proper training data for classification model training.
+* Most challenging part was to extract data .For Twitter API we have certain limitations based on number of tweets we can extract in a day.
+* Second issue was to get proper training data for classification model training.
+* Also,choosing the number of topics which are important and are correlated to each tweet was difficult.
+
+
 
 # What's Next
 
